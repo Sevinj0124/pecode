@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg">
@@ -12,8 +14,9 @@ const Navbar = () => {
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
-        <li className="nav-item">
-          <a className="nav-link " aria-current="page" href="#">What we do</a>
+        
+         <li className="nav-item">
+          <a className="nav-link" href="#">What we do</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">Career</a>
